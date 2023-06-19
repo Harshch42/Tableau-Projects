@@ -9,5 +9,5 @@ Data Analysis Projects Using Tableau and SQL.
 3) Sales Insights
  ![alt text](Sales-Insights/Sales_insights_dashboard.png)
 4) Covid-19 India
-![alt text](Covid-19-India/covid_19_dashboard.png)a
+![alt text](Covid-19-India/covid_19_dashboard.png)
 
